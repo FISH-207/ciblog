@@ -1,7 +1,4 @@
 <?php
-/**
- * 
- */
 class pages extends CI_Controller
 {
 	

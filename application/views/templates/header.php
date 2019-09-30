@@ -28,3 +28,5 @@
 
 <!-- Blue with white text -->
 <nav class="navbar navbar-expand-sm bg-primary navbar-dark">...</nav>
+<div class="container">
+	
